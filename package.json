@@ -5,7 +5,7 @@
   "author": "Tim Caswell <tim@creationix.com>",
   "repository":
   { "type" : "git",
-    "url" : "http://github.com/creationix/step.git"
+    "url" : "https://github.com/diogogmt/step.git"
   },
   "main": "lib/step"
 }
