@@ -2,7 +2,11 @@ require('./helper');
 
 var selfText = fs.readFileSync(__filename, 'utf8');
 
+<<<<<<< HEAD
 // This example tests stopping a step chain before running all the registered steps
+=======
+// This example tests passing async results and sync results to the next layer
+>>>>>>> master
 
 expect('one');
 expect('two');
